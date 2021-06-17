@@ -1,5 +1,11 @@
 # @usedapp/core
 
+## 0.3.25
+
+### Patch Changes
+
+- b9304cb: Remove useCallback from ChainStateProvider
+
 ## 0.3.24
 
 ### Patch Changes

@@ -1,5 +1,15 @@
 # @usedapp/example
 
+## 0.2.7
+
+### Patch Changes
+
+- 88c5983: Refactor coingecko
+- Updated dependencies [b9304cb]
+- Updated dependencies [88c5983]
+  - @usedapp/core@0.3.25
+  - @usedapp/coingecko@0.3.22
+
 ## 0.2.6
 
 ### Patch Changes
